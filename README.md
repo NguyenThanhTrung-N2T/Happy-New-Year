@@ -14,7 +14,9 @@ Trang web chúc mừng năm mới đặc biệt dành tặng Nguyễn Thị Như
 
 ## 🚀 Demo
 
-[Live Demo](https://your-vercel-url.vercel.app)
+Repository: [GitHub](https://github.com/NguyenThanhTrung-N2T/Happy-New-Year)
+
+Live Demo: Deploy lên Vercel để có link demo!
 
 ## 🛠️ Công nghệ
 
